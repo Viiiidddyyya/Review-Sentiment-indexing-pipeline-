@@ -7,7 +7,8 @@
 This project is about building an end-to-end data engineering pipeline using TCP/IP Socket, Apache Spark, OpenAI LLM, Kafka and Elasticsearch. It covers each stage from data acquisition, processing, sentiment analysis with ChatGPT, production to kafka topic and connection to elasticsearch.
 
 ## System Architecture
-![System_architecture.png](assets%2FSystem_architecture.png)
+<img width="1919" height="602" alt="image" src="https://github.com/user-attachments/assets/133fa921-c695-422d-82b4-d9113032514c" />
+
 
 The project is designed with the following components:
 
